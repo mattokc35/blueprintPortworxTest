@@ -7,6 +7,7 @@ inputs:
     value: $blueprint.ibmcloud_api_key
   - name: ibm_region
     value: $blueprint.ibm_region
+  - name: cluster_name
     value: $blueprint.cluster_name
   - name: portworx_service_name
     value: $blueprint.portworx_service_name
