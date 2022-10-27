@@ -1,5 +1,5 @@
 ibm_region : us-south
-cluster_name: mattokc35-us-south-cluster-4
+cluster_name: mtc-vpc-2-subnets-cluster-2
 max_storage_node_per_zone: 2
 num_cloud_drives: 3
 cloud_drives_sizes: |
