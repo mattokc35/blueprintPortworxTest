@@ -10,9 +10,10 @@ cloud_drives_sizes: |
         200
       ]
 storage_classes: |
-      ["ibmc-vpc-block-5iops-tier", 
-      "ibmc-vpc-block-5iops-tier", 
-      "ibmc-vpc-block-5iops-tier"
+      [
+        "ibmc-vpc-block-5iops-tier", 
+        "ibmc-vpc-block-5iops-tier", 
+        "ibmc-vpc-block-5iops-tier"
       ]
       
 portworx_service_name: mtc-portworx-test-4-20ea8d30-20ea8d30-20ea8d30
